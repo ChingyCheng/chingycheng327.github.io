@@ -3,13 +3,12 @@ title: "Research"
 layout: splash
 permalink: /research/
 ---
-My research ambition is to build **autonomous agents** that can solve a wide variety of complex tasks and continuously learn new ones. I believe this calls for decision-making systems that can **continually** learn state and action abstractions and use them to quickly **generalize** to new tasks. Toward this goal, I work on various aspects of **reinforcement learning**.
-I was fortunate to be advised by professors [George Konidaris](https://cs.brown.edu/people/gdk/) and [Michael Littman](https://www.littmania.com) at Brown. Please check out my selected work below. 
+I am very interested in biomathematics and data analysis. I believe that deep learning (ML) provides a powerful platform for biomathematical processing of data, and high-dimensional data analysis is the research that is currently needed. To this end, I work on the application of **Biomathematics, Machine Learning, and Deep Learning to Data Processing.** I am fortunate to be advised by professors [Xiaomei Feng](http://sxxy.itycu.com/pages/cms/teachershow.html?id=99) . Please check out my selected work below. 
 {: style="text-align: center;font-size:110%;padding-top:40px"}
 
-[CV](/pdfs/bio/CV.pdf) \|
-[Google Scholar](https://scholar.google.com/citations?user=unQVOJkAAAAJ&hl=en) \|
-[Github](https://github.com/zhouzypaul)
+
+[Google Scholar](https://scholar.google.com) \|
+[Github](https://github.com/ChingyCheng)
 {: style="text-align: center;font-size: 100%"}
 
 
@@ -18,37 +17,32 @@ I was fortunate to be advised by professors [George Konidaris](https://cs.brown.
 
 
 ## Publications
-### Conferences 
-
+### Journal
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tbody>
           <!-- <tr bgcolor="#ffffd0"> -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div>
-                <img src='/images/paper-images/tiered-reward.jpg' width="160">
+                <img src='/images/ercheng.jpg' width="160">
               </div>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-              Specifying Behavior Preference with Tiered Reward Functions
+               Research on Identification of Seismic Event Properties Based on Least Squares Support Vector Machine and Entropy Feature
               </p>
               <div class="skills">
-                <span class="skill">behavior specification</span>
-                <span class="skill">reward design</span>
-                <span class="skill">Pareto optimality</span>
-                <span class="skill">fast learning</span>
+                <span class="skill">Review writing</span>
+                <span class="skill">SVM</span>
               </div>
-              <strong>Zhiyuan Zhou</strong>,
-              <a href="https://www.linkedin.com/in/henry-sowerby-a54aa592/">Henry Sowerby</a>,
-              <a href="https://www.littmania.com">Michael Littman</a>
+              Cong Pang,Chengwang Liao,Yong Jiang,<strong>Cheng Cheng</strong>,Tao Wu, Peng Shu,Wei Ding
               <br>
-				<em>ICML workshop (<a href="https://sites.google.com/view/mfpl-icml-2023/home?authuser=0">MFPL</a>)</em>, 2023.
+				<em>Journal of Geodesy and Geodynamics</em>, 2022.
               <br>
-              [<a href="https://arxiv.org/abs/2212.03733">arXiv</a>]
-              [<a href="https://github.com/zhouzypaul/tiered-reward">code</a>]
+              [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=DKXB202206019&dbcode=CJFQ&dbname=CJFD2022&v=hSWFAhoAtBnSMk_gu_PeVuzDZ5rmBMqy4-ktNhinxiOOUSS9J4qGLfr81ma2aKIi">cnki</a>]
+
               <br>
-              <p>Proposes a strict partial ordering of the policy space to tradeoff policy-preference, then introduces a family of environment-independent tiered reward functions that are guaranteed to induce preferred policy. Finally, we show tiered rewards induce fast learning.<br>
+              <p>Based on a total of 500 waveform data such as earthquake events and artificial blasting interference events in 2021, a number of random sampling sub-experiments with different training ratios and test ratios were designed, and the accuracy, recall, special effect, precision, and F-measure were used to verify the validity of the model.<br>
               </p>
             </td>
           </tr>
@@ -61,63 +55,27 @@ I was fortunate to be advised by professors [George Konidaris](https://cs.brown.
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div>
-                <img src='/images/paper-images/actgen.png' width="160">
+                <img src='/images/pso.jpg' width="160">
               </div>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-              Characterizing the Action-Generalization Gap in Deep Q-Learning
+             Research on seismic discrimination based on particle swarm optimization generalized regression neural network and HHT sample entropy
               </p>
               <div class="skills">
-                <span class="skill">DQN</span>
-                <span class="skill">action generalization</span>
+                <span class="skill">experimental design</span>
+                <span class="skill">PSO</span>
               </div>
-              <strong>Zhiyuan Zhou</strong>,
-              <a href="https://camallen.net">Cameron Allen</a>,
-              <a href="https://cs.brown.edu/people/kasadiat/authors/kavosh-asadi/">Kavosh Asadi</a>,
-              <a href="https://cs.brown.edu/people/gdk/">George Konidaris</a>
+              Cong Pang,Wei Ding,
+              <strong>Cheng Cheng</strong>,et.al
               <br>
-				<em>Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM)</em>, 2022.
+				<em>Progess in Geophysics</em>, 2022.
               <br>
-              [<a href="https://arxiv.org/abs/2205.05588">arXiv</a>]
-              [<a href="../pdfs/posters/actgen_rldm_poster.pdf">poster</a>]
-              [<a href="https://github.com/camall3n/actgen">code</a>]
+              [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=DQWJ2022031500J&dbcode=DKFX&dbname=DKFX2022&v=S8LCx_iKxHZwzIf37irYxfUIXBeHlC8GhgF9dyL40h0xJzBSgRmLQLKhUX59xYaP">cnki</a>]
+<!--               [<a href="../pdfs/posters/optre_rldm_poster.pdf">poster</a>]
+              [<a href="https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7adfa2ab-3dde-46ab-b69e-aea800efe5ef">talk at RLDM</a> at 1:20:00] -->
               <br>
-              <p>Introduces a way of evaluating action-generalization in Deep Q-Learning using an oracle (expert knowledge of action similarity), and shows that DQN's ability to generalize over actions depends on the size of the action space. <br>
-              </p>
-            </td>
-          </tr>
-        </tbody>
-</table> 
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-        <tbody>
-          <!-- <tr bgcolor="#ffffd0"> -->
-          <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div>
-                <img src='/images/paper-images/optre.png' width="160">
-              </div>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-              Designing Rewards for Fast Learning
-              </p>
-              <div class="skills">
-                <span class="skill">reward design</span>
-                <span class="skill">Interactive RL</span>
-              </div>
-              <a href="https://www.linkedin.com/in/henry-sowerby-a54aa592/">Henry Sowerby</a>,
-              <strong>Zhiyuan Zhou</strong>,
-              <a href="https://www.littmania.com">Michael Littman</a>
-              <br>
-				<em>Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM)</em>, 2022. <FONT COLOR="red">(Oral) </FONT>
-              <br>
-              [<a href="https://arxiv.org/abs/2205.15400">arXiv</a>]
-              [<a href="../pdfs/posters/optre_rldm_poster.pdf">poster</a>]
-              [<a href="https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7adfa2ab-3dde-46ab-b69e-aea800efe5ef">oral at RLDM</a> at 1:20:00]
-              <br>
-              <p>Identifies properties of rewards that lead to fast learning: rewards should have big action gaps and small "subjective discounts". Proposes an algorithm to design these rewards.<br>
+              <p>A new method for earthquake type identification based on particle swarm optimization generalized regression neural network and HHT sample entropy is proposed. The recognition accuracy of only 50 items can reach more than 98%.<br>
               </p>
             </td>
           </tr>
@@ -125,71 +83,73 @@ I was fortunate to be advised by professors [George Konidaris](https://cs.brown.
 </table> 
 
 ### School Journal
-
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tbody>
           <!-- <tr bgcolor="#ffffd0"> -->
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div>
-                <img src='https://raw.githubusercontent.com/openai/procgen/master/screenshots/coinrun.png' width="160">
+               <img src='/images/TOPSIS.jpg' width="160">
               </div>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-              Policy Transfer in Lifelong Reinforcement Learning through Learning Generalizing Features
-              </p>
-              <div class="skills">
-                <span class="skill">lifelong RL</span>
-                <span class="skill">transfer learning</span>
-                <span class="skill">attention</span>
-              </div>
-              <strong>Zhiyuan Zhou</strong> (Advisor:  <a href="https://cs.brown.edu/people/gdk/">George Konidaris</a>)
-              <br>
-				<em>Undergraduate Honors Thesis, Brown CS</em>, 2023.
-              <br>
-              [<a href="https://cs.brown.edu/media/filer_public/c2/72/c272a1f8-1186-4a85-8f97-cfe8a1a7278a/zhouzhiyuan_honors_thesis.pdf">pdf</a>]
-              [<a href="https://github.com/zhouzypaul/policy-transfer-lifelong-rl">code</a>]
-              <br>
-              <p>
-              Introduces an approach to learn state features that generalize across tasks drawn from the same distribution. We use an attantion mechanism to learn an ensemble of minimally overlapping state features, leading to an ensemble of policies. We then use a bandit algorithm to learn to identify the generalizing feature in the ensemble and capitalize on that to learn a transferable policy. <br>
-              </p>
-            </td>
-          </tr>
-        </tbody>
-</table> 
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-        <tbody>
-          <!-- <tr bgcolor="#ffffd0"> -->
-          <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div>
-                <img src='https://www.webtunix.ai/static/img/anotation.jpg' width="160">
-              </div>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-              Improving Post-Processing on Video Object Recognition Using Inertial Measurement Unit
+             Decision-making platform for mine mcroseismic monitoring network layout plan based on TOPSIS and ZedGraph graphic controls
               </p>
                 <div class="skills">
-                  <span class="skill">object recognition</span>
-                  <span class="skill">Hidden Markov Models</span>
-                  <span class="skill">Kalman Filter</span>
-                  <span class="skill">Inertial Measurement Unit</span>
+                  <span class="skill">TOPSIS</span>
+                  <span class="skill">Zedgraph</span>
+<!--                   <span class="skill">Kalman Filter</span>
+                  <span class="skill">Inertial Measurement Unit</span> -->
                 </div>
-              <strong>Zhiyuan Zhou</strong>,
-              <a href="https://rocketreach.co/spencer-boyum-email_78257776">Spencer Boyum</a>,
-              <a href="https://vivo.brown.edu/display/mparadis">Michael Paradiso</a>
+              Cong Pang,Lei Wang,Wugang Ma,<strong>Cheng Cheng</strong>,et.al
+<!--               <a href="https://rocketreach.co/spencer-boyum-email_78257776">Spencer Boyum</a>,
+              <a href="https://vivo.brown.edu/display/mparadis">Michael Paradiso</a> -->
               <br>
-				<em>Brown Undergraduate Research Journal</em>, Spring 2022.
+				<em>Journal of Shaoyang University(Natural Science Edition)</em>, Summer 2022. (Work was done in Spring 2022, published in 2022.)
               <br>
-              [<a href="https://brownresearchclub.weebly.com/spring-2022.html">paper</a> on page 29]
-              [<a href="https://github.com/zhouzypaul/object-recognition-imu">code</a>]
+              [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=SYXZ202203001&uniplatform=NZKPT&v=WQLhOUsEE2Ny13mKBzFFTg1MH4UfiBiMihiJSvVAzbPdTDJxVhDcT2K3elAZkcIw">paper</a> on page 1-8]
               <br>
-              <p> How to improve the accuracy of object recognition in videos if given per-frame inertial measurements of the camera. We propose two way to do so.<br>
+              <p>A decision-making platform based on TOPSIS and ZedGraph graphic controls for the layout of mine microseismic monitoring network is designed. The platform can accurately output decision-making results, with a friendly interface and easy operation. It has certain practical significance in the research and development field of microseismic monitoring software system.<br>
               </p>
             </td>
           </tr>
         </tbody>
 </table> 
+
+
+<!-- ## Misc 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tbody>
+           <tr bgcolor="#ffffd0"> 
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div>
+                <img src='/images/paper-images/robot-nav.png' width="160">
+              </div>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
+              Natural Language and Gesture Control for Robot Navigation
+              </p>
+              <div class="skills">
+                <span class="skill">NLP</span>
+                <span class="skill">gesture control</span>
+                <span class="skill">navigation</span>
+                <span class="skill">robotics simulation</span>
+              </div>
+              <a href="https://www.linkedin.com/in/ronald-baker-a978801b4/">Ronald Baker</a>,
+              <strong>Zhiyuan Zhou</strong>,
+              <a href="https://cs.brown.edu/people/stellex/">Stefanie Tellex</a>,
+              <br>
+				<em>final paper for Brown's Collaborative Robotics CS2951K</em>, Spring 2020.
+              <br>
+              [<a href="../pdfs/papers/nl-gesture-paper.pdf">paper</a>]
+              [<a href="https://drive.google.com/file/d/1n_2syscPwRcwtKXXp40UMu6Vl1x3uDok/view?usp=sharing">demo video</a>]
+              <br>
+              <p>Created a pipeline that enables a robot to navigate to a destination more accurately, using pointing gestures to corroborate natural language commands.<br>
+              </p>
+            </td>
+          </tr>
+        </tbody>
+</table>  -->

@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : 'Zhiyuan "Paul" Zhou'
+title                    : 'ChiEnn Cheng'
 title_separator          : "-"
-subtitle                 :  # Portfolio website # site tagline that appears below site title in masthead
-name                     : 'Zhiyuan "Paul" Zhou'
-description              : "I am an in-coming Ph.D. student at UC Berkeley interested in reinforcement learning. I recently graduated from Brown University with an Sc.B. in Applied Math and CS."
-url                      : 'https://zhouzypaul.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 :  # site tagline that appears below site title in masthead
+name                     : 'ChiEnn Cheng'
+description              : "I am a master student  ."
+url                      : 'https://chingycheng.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '/' # the subpath of your site, e.g. "/blog"
 repository               : 'zhouzypaul/zhouzypaul.github.io' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : 'Zhiyuan "Paul" Zhou'
+  name             : 'Chingy Cheng'
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an in-coming Ph.D. student at UC Berkeley interested in reinforcement learning. I recently graduated from Brown University with an Sc.B. in Applied Math and CS."
-  location         : "Providence, RI"
+  bio              : "I am a senior at Yuncheng University studying Math and Applied Math . I do research in Biomathematics."
+  location         : "Biomathematics"
   email            :
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:chingycheng327@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://zhouzypaul.github.io"
+      url: "https://chingycheng.github.io"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/"
@@ -135,12 +135,12 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: https://www.linkedin.com/in/zhiyuan-paul-zhou/
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: https://twitter.com/YuxiCheng2
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/zhouzypaul
+      url: https://github.com/ChingyCheng
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   url: 
@@ -149,10 +149,10 @@ footer:
     #   # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/paul_zhou_/
+      url: https://www.instagram.com/chiennchan22/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/paul.zhou.528
+      url: hhttps://www.facebook.com/ChiEnnChan22/
 
 
 # Reading Files
@@ -293,6 +293,6 @@ defaults:
     comments:
       provider: "disqus"
       disqus:
-        shortname: "zhouzypaul"
+        shortname: "ChiEnn Cheng"
       share: true
       related: true
