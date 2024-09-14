@@ -3,7 +3,7 @@ title: "Research"
 layout: splash
 permalink: /research/
 ---
-I am very interested in biomathematics and data analysis. I believe that deep learning (ML) provides a powerful platform for biomathematical processing of data, and high-dimensional data analysis is the research that is currently needed. To this end, I work on the application of **Biomathematics, Machine Learning, and Deep Learning to Data Processing.** I am fortunate to be advised by professors [Xiaomei Feng](http://sxxy.itycu.com/pages/cms/teachershow.html?id=99) . Please check out my selected work below. 
+I am very interested in Computational epidemiology and data analysis. I believe that deep learning (DL) provides a powerful platform for biomathematical processing of data, and high-dimensional data analysis is the research that is currently needed. To this end, I work on the application of **Biomathematics, Machine Learning, and Deep Learning to Data Processing.** I am fortunate to be advised by professors [Xiaomei Feng](http://sxxy.itycu.com/pages/cms/teachershow.html?id=99) . Please check out my selected work below. 
 {: style="text-align: center;font-size:110%;padding-top:40px"}
 
 
